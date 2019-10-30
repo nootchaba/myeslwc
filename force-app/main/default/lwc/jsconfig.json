@@ -17,6 +17,12 @@
             ],
             "c/reservationHelper": [
                 "reservationHelper/reservationHelper.js"
+            ],
+            "c/reservationDetailForm": [
+                "reservationDetailForm/reservationDetailForm.js"
+            ],
+            "c/customerDetailForm": [
+                "customerDetailForm/customerDetailForm.js"
             ]
         }
     },
