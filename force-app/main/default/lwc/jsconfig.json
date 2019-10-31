@@ -23,6 +23,9 @@
             ],
             "c/customerDetailForm": [
                 "customerDetailForm/customerDetailForm.js"
+            ],
+            "c/reservationHelperForm": [
+                "reservationHelperForm/reservationHelperForm.js"
             ]
         }
     },
