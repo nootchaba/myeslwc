@@ -50,6 +50,12 @@
             ],
             "c/spaceDesigner": [
                 "spaceDesigner/spaceDesigner.js"
+            ],
+            "c/simplePub": [
+                "simplePub/simplePub.js"
+            ],
+            "c/simpleSub": [
+                "simpleSub/simpleSub.js"
             ]
         }
     },
